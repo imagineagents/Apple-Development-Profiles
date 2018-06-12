@@ -1,2 +1,2 @@
-# iOSProfiles
-Public/Developer iOS Profiles
+# Apple Seed Profiles
+Apple Software Testing Profiles
